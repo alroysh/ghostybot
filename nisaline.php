@@ -3,7 +3,7 @@
   /***********************/
  
 $aing = array(
-    "tkn"=>"...", // isi dengan token dari akun bot Anda
+    "tkn"=>"foHivR9RW1cwM7LwHhSBOPTAjGa8o8kbmomtLhC906UPPWoB1gIsMhCXh7oE9bGA4HcnU1iGygo06OflcHmU827yGqF3qGQtwPReKwcx+QTOKHKqRFcCDFysPvqeHESKUm4Ey4gPabfHkJeT5FzOdQdB04t89/1O/w1cDnyilFU=", // isi dengan token dari akun bot Anda
     "log"=>"piro.txt",
     "udh"=>"simpen.txt"
 );
